@@ -71,7 +71,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aliyas-22&theme=tokyo-night"/>
+  <img width="1083" height="430" alt="image" src="https://github.com/user-attachments/assets/fb384f25-efd8-4c79-a182-8db1bf9af9a7" />
+
 </p>
 
 
