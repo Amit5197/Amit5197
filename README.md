@@ -22,7 +22,7 @@
 
 - Currently learning Devops Tools and Technologies like **Linux, AWS Cloud, Github, Terraform, Docker, Kubernetes, and CI/CD pipelines**
 -  Practicing hands-on labs every day
--  Documenting progress → **#90DaysDevOpsJourney**
+-  Documenting progress → **[90DaysDevOpsJourney](https://github.com/Amit5197/90DaysOfDevOps/tree/master/2026)**
 -  Goal → Become a job-ready DevOps Engineer
 -  Believe in *consistency over perfection*
 
