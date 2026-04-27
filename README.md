@@ -3,7 +3,7 @@
 <h1 align="center">Hii 👋, I Am Amit K Pandey </h1>
 
 <h3 align="center">
-🚀 Aspiring DevOps Engineer | Linux • Cloud • Automation
+🚀 Cloud & DevOps Engineer | Linux • Cloud • Automation
 </h3>
 
 <p align="center">
@@ -20,7 +20,7 @@
 
 ## About Me
 
-- Currently learning Devops Toos and Technologies like **AWS, Docker, Linux & Networking**
+- Currently learning Devops Tools and Technologies like **Linux, AWS Cloud, Github, Terraform, Docker, Kubernetes, and CI/CD pipelines**
 -  Practicing hands-on labs every day
 -  Documenting progress → **#90DaysDevOpsJourney**
 -  Goal → Become a job-ready DevOps Engineer
