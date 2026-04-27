@@ -30,7 +30,7 @@
 
 ## What I'm Currently Working On
 
-- 📅 *90 Days of DevOps Journey* – daily learning and hands-on practice
+- 📅 **[90DaysDevOpsJourney](https://github.com/Amit5197/90DaysOfDevOps/tree/master/2026)** – daily learning and hands-on practice
 - 🔧 Strengthening *Git & GitHub* workflows
 - 🖥️ Improving *Linux fundamentals* and command-line usage
 - 🐍 Practicing *Python scripting* & *Shell scripting* for automation
