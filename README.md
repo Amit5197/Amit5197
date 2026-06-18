@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="https://github.com/Amit5197/Amit5197/actions">
-    <img src="https://github.com/Amit5197/Amit5197/actions/workflows/docker-publish.yml/badge.svg" alt="docker-publish">
+    <img src="https://github.com/Amit5197/Amit5197/actions/workflows/docker-cicd.yml/badge.svg" alt="docker-cidd">
   </a>
 </p>
 
