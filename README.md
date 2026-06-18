@@ -12,9 +12,8 @@
 
 <p align="center">
   <a href="https://github.com/Amit5197/Amit5197/actions">
-    <img src="https://github.com/Amit5197/Amit5197/actions/workflows/docker-cicd.yml/badge.svg" alt="docker-cicd">
+    <img src="https://github.com/Amit5197/Amit5197/actions/workflows/docker-cicd.yml/badge.svg?branch=main" alt="docker-cicd">
   </a>
-</p>
 
 </p>
 
