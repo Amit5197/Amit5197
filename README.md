@@ -11,10 +11,10 @@
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=58A6FF&center=true&vCenter=true&lines=DevOps+Learner;AWS+%7C+Docker..."/>
-</p>
-<p align="center">
-PASTE_YOUR_COPIED_BADGE_MARKDOWN_HERE
+  <a href="https://github.com/Amit5197/YOUR_REPO_NAME/actions">
+    <img src="https://github.com/Amit5197/YOUR_REPO_NAME/actions/workflows/docker-publish.yml/badge.svg" alt="docker-publish">
+  </a>
+
 </p>
 
 ---
