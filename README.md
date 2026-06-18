@@ -11,7 +11,10 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=58A6FF&center=true&vCenter=true&lines=DevOps+Learner;AWS+%7C+Docker+%7C+Linux+%7C+Python;CI%2FCD+Enthusiast;Future+Devops+Engineer" />
+<img src="https://readme-typing-svg.herokuapp.com?color=58A6FF&center=true&vCenter=true&lines=DevOps+Learner;AWS+%7C+Docker..."/>
+</p>
+<p align="center">
+PASTE_YOUR_COPIED_BADGE_MARKDOWN_HERE
 </p>
 
 ---
