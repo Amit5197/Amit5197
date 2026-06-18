@@ -11,10 +11,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Amit5197/Amit5197/actions">
-    <img src="https://github.com/Amit5197/github-actions-practice/actions/workflows/docker-cicd.yml/badge.svg?branch=main" alt="docker-cicd">
-  </a>
-
+  <img src="https://komarev.com/ghpvc/?username=Amit5197&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 ---
