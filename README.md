@@ -11,9 +11,10 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Amit5197/YOUR_REPO_NAME/actions">
-    <img src="https://github.com/Amit5197/YOUR_REPO_NAME/actions/workflows/docker-publish.yml/badge.svg" alt="docker-publish">
+  <a href="https://github.com/Amit5197/Amit5197/actions">
+    <img src="https://github.com/Amit5197/Amit5197/actions/workflows/docker-publish.yml/badge.svg" alt="docker-publish">
   </a>
+</p>
 
 </p>
 
