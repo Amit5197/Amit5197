@@ -32,8 +32,8 @@
 
 ---
 
-<!-- ================================== -->
-                                                                         💫 Believe in ***consistency over perfection***
+<!-- ================= HEADER ================= -->
+                                                                        💫 Believe in ***consistency over perfection***
 
 ---
 
