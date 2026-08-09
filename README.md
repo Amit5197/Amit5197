@@ -30,7 +30,9 @@
 
 - Open to opportunities in ***DevOps Engineering***, ***Cloud Engineering***, ***consultant**, and ***Cloud Support roles***.
 
-- Believe in ***consistency over perfection***
+
+<!-- ================================== -->
+                                                                         💫 Believe in ***consistency over perfection***
 
 ---
 
