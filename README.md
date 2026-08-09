@@ -4,7 +4,7 @@
 
 # 👋 Hi, I'm **Amit K Pandey**
 
-### ☁️ Cloud & DevOps Engineer | ☁️ Cloud |☸️ Kubernetes | Automation | 🤖 AI for DevOps (🤖 AI/LLM) | 🔐 DevSecOps
+### ☁️ Cloud & DevOps Engineer |☸️ Kubernetes | Automation | 🤖 AI for DevOps (🤖 AI/LLM) | 🔐 DevSecOps
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=850&lines=Cloud+Infrastructure+%7C+DevOps+%7C+Kubernetes;Terraform+%7C+AWS+%7C+Azure+%7C+OCI;CI%2FCD+%7C+GitOps+%7C+DevSecOps;Observability+%7C+Reliability+%7C+Automation;AI+%26+LLMs+for+DevOps+Automation" alt="Typing SVG" />
 
@@ -13,7 +13,7 @@
 <img src="https://img.shields.io/badge/AWS-Certified-orange?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS">
 <img src="https://img.shields.io/badge/Azure-AZ--900%20%7C%20AZ--104%20%7C%20AZ--305-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure">
 <img src="https://img.shields.io/badge/OCI-DevOps%20%26%20Multicloud-red?style=for-the-badge&logo=oracle&logoColor=white" alt="OCI">
-<br><br>
+<br>
 
 > 🚀 **Building scalable cloud infrastructure, automating delivery, securing workloads, and exploring AI-powered DevOps.**
 
