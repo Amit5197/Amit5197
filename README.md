@@ -22,7 +22,6 @@
 </div>
 
 ---
-<!-- ================= 🚀 About Me ================= -->
 
 <!-- ================= 🚀 About Me ================= -->
 
@@ -60,7 +59,7 @@
 
 ## 🛠️ Skills & Tools
 
-### ☁️ Cloud & Infrastructure
+- ### ☁️ Cloud & Infrastructure
 
 <p>
   <img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white"/>
@@ -69,7 +68,7 @@
   <img src="https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white"/>
 </p>
 
-### 📦 Containers & DevOps
+- ### 📦 Containers & DevOps
 
 <p>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
@@ -80,7 +79,7 @@
   <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat&logo=argo&logoColor=white"/>
 </p>
 
-### 📊 Monitoring & Observability
+- ### 📊 Monitoring & Observability
 
 <p>
   <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white"/>
@@ -88,14 +87,14 @@
   <img src="https://img.shields.io/badge/CloudWatch-FF9900?style=flat&logo=amazonaws&logoColor=white"/>
 </p>
 
-### 🔐 Security & DevSecOps
+- ### 🔐 Security & DevSecOps
 
 <p>
   <img src="https://img.shields.io/badge/Trivy-1904DA?style=flat&logo=aqua&logoColor=white"/>
   <img src="https://img.shields.io/badge/DevSecOps-2E8B57?style=flat&logo=security&logoColor=white"/>
 </p>
 
-### 🐧 Operating Systems & Version Control
+- ### 🐧 Operating Systems & Version Control
 
 <p>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"/>
@@ -104,7 +103,7 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
 </p>
 
-### 💻 Programming & Development
+- ### 💻 Programming & Development
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
