@@ -1,7 +1,6 @@
 <!-- ================= HEADER ================= -->
 
 <div align="center">
-<div align="center">
 
 # 👋 Hi, I'm **Amit K Pandey**
 
