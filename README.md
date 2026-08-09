@@ -36,6 +36,8 @@
 
 <!-- ================= 💼 Experience ================= -->
 
+## 💼 Experience
+
 Role	Company	Period
 DevOps Engineer 	Coforge Limited | Delhi, India	Nov- 2025 to Present
 Cloud Engineer	CMS Computers India Private Limited | Delhi, India	Sep 2024 - Oct 2025
