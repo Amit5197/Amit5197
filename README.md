@@ -49,20 +49,51 @@ System Engineer	Vastek Systems Private Limited | Rewa, Madhya Pradesh	Jun 2023 -
 
 ## 🛠️ Skills & Tools
 
-☁️ Cloud & Infrastructure
-<p> <img src="https://skillicons.dev/icons?i=aws,azure,gcp,terraform" height="40" /> </p>
-📦 Containers & DevOps
-<p> <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,githubactions,argo" height="40" /> </p>
-💻 Programming & Scripting
-<p> <img src="https://skillicons.dev/icons?i=python,bash" height="40" /> </p>
-🐧 Operating Systems & Version Control
-<p> <img src="https://skillicons.dev/icons?i=linux,git,github" height="40" /> </p>
-📊 Monitoring & Observability
-<p> <img src="https://skillicons.dev/icons?i=prometheus,grafana" height="40" /> </p>
-🗄️ Databases & Development Tools
-<p> <img src="https://skillicons.dev/icons?i=mysql,vscode" height="40" /> </p>
-🔧 Additional Tools
-<p> <img src="https://skillicons.dev/icons?i=cloudflare" height="40" /> </p>
+## 🛠️ Skills & Tools
+
+### ☁️ Cloud & Infrastructure
+
+<p>
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white"/>
+</p>
+
+### 📦 Containers & DevOps
+
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat&logo=argo&logoColor=white"/>
+</p>
+
+### 📊 Monitoring & Observability
+
+<p>
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CloudWatch-FF9900?style=flat&logo=amazonaws&logoColor=white"/>
+</p>
+
+### 🐧 Operating Systems & Version Control
+
+<p>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
+</p>
+
+### 💻 Programming & Development
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/>
+</p>
 
 ---
 
