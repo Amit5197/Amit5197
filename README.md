@@ -33,7 +33,10 @@
 ---
 
 <!-- ================= HEADER ================= -->
-                                                                        💫 Believe in ***consistency over perfection***
+
+<p align="center">
+  🚀 Believe in <strong>consistency over perfection</strong> — automate, improve, and ship better every day.
+</p>
 
 ---
 
