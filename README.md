@@ -16,7 +16,7 @@
 
 ---
 
-<!-- ================= ABOUT ================= -->
+<!-- ================= 🚀 About Me ================= -->
 
 ## 🚀 About Me
 
@@ -30,6 +30,7 @@
 
 - Open to opportunities in ***DevOps Engineering***, ***Cloud Engineering***, ***consultant**, and ***Cloud Support roles***.
 
+---
 
 <!-- ================================== -->
                                                                          💫 Believe in ***consistency over perfection***
@@ -40,16 +41,11 @@
 
 ## 💼 Experience
 
-Role	Company	Period
-DevOps Engineer 	Coforge Limited | Delhi, India	Nov- 2025 to Present
-Cloud Engineer	CMS Computers India Private Limited | Delhi, India	Sep 2024 - Oct 2025
-Cloud Support Engineer	Ishan Netsol Private Limited | Noida, Uttar Pradesh 	Dec 2023 - Sep 2024
-System Engineer	Vastek Systems Private Limited | Rewa, Madhya Pradesh	Jun 2023 - Nov 2023
 <img width="760" height="208" alt="image" src="https://github.com/user-attachments/assets/7447fc6c-7b76-47ef-bb86-e05d78e85ed3" />
 
 ---
 
-<!-- ================= SKILLS ================= -->
+<!-- ================= 🛠️ Skills & Tools ================= -->
 
 ## 🛠️ Skills & Tools
 
@@ -99,6 +95,8 @@ System Engineer	Vastek Systems Private Limited | Rewa, Madhya Pradesh	Jun 2023 -
 
 ---
 
+<!-- ================= 🚀 Featured Projects ================= -->
+
 ## 🚀 Featured Projects
 
 ### ☸️ SkillPulse — Three-Tier Kubernetes Deployment
@@ -123,7 +121,7 @@ System Engineer	Vastek Systems Private Limited | Rewa, Madhya Pradesh	Jun 2023 -
 
 ---
 
-<!-- ================= JOURNEY ================= -->
+<!-- ================= 📅 JOURNEY ================= -->
 
 ## 📅 My Learning Journey
 
@@ -148,6 +146,8 @@ System Engineer	Vastek Systems Private Limited | Rewa, Madhya Pradesh	Jun 2023 -
 
 ---
 
+<!-- ================= 🏆 Certifications ================= -->
+
 ## 🏆 Certifications
 
 - AWS Certified Cloud Practitioner (CLF-C02)
@@ -157,7 +157,9 @@ System Engineer	Vastek Systems Private Limited | Rewa, Madhya Pradesh	Jun 2023 -
 - Oracle Cloud Infrastructure (OCI) 2025 Multicloud Architect Professional
 - AWS Zero to Hero | Agentic AI for DevOps | Azure DevOps Zero to Hero-TrainWithShubham
 
-<!-- ================= CONNECT WITH ME ================= -->
+---
+
+<!-- ================= 📫CONNECT WITH ME ================= -->
 
 ## 📫 Connect With Me
 
