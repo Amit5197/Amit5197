@@ -1,9 +1,9 @@
 <!-- ================= HEADER ================= -->
 
-<h1 align="center">Hello 🤝, I Am Amit K Pandey 👋 </h1>
+<h1 align="center">Hi, I'm Amit K Pandey 👋</h1>
 
 <h3 align="center">
-🚀 Cloud & DevOps Engineer | • DevOps • Linux • Cloud • Automation 
+🚀 Cloud & DevOps Engineer | Cloud • Kubernetes • Automation • DevSecOps
 </h3>
 
 <p align="center">
@@ -12,6 +12,9 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Amit5197&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://img.shields.io/badge/AWS-Certified%20Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure-AZ--900%20%7C%20AZ--104%20%7C%20AZ--305-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OCI-DevOps%20%26%20Multicloud-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
 </p>
 
 ---
@@ -20,15 +23,15 @@
 
 ## 🚀 About Me
 
-- 🛞 Cloud & DevOps Engineer with 4+ years of experience designing, deploying, and managing scalable infrastructure across AWS and Azure.
-- Hands-on experience in CI/CD automation, Infrastructure as Code (IaC), containerization, Kubernetes, cloud networking, security, monitoring, and production incident management.
-- Experienced in building and managing GitHub Actions and Jenkins pipelines, automating infrastructure using Terraform and reducing provisioning time by 20–30%, containerizing applications with Docker, and implementing observability using
-- Prometheus, Grafana, AWS CloudWatch, and ELK. Proven ability to reduce deployment time, automate manual processes, improve system reliability, and resolve production incidents in high-availability environments.
-- Experienced in supporting e-governance infrastructure and SDLC operations while maintaining 99.99% uptime and minimizing service downtime to approximately 0.1%.
+- ☁️ Cloud & DevOps Engineer with **4+ years of experience** designing, deploying, and managing scalable infrastructure across AWS and Azure.
+- ⚙️ Hands-on experience in **CI/CD, Infrastructure as Code, Kubernetes, Docker, cloud networking, security, monitoring, and production operations**.
+- 🔧 Experienced with **Terraform, GitHub Actions, Jenkins, Docker, Kubernetes, Prometheus, Grafana, CloudWatch, and ELK**.
+- 📈 Proven track record of reducing deployment and provisioning time, automating manual processes, improving system reliability, and supporting production environments.
+- 🛡️ Experienced in supporting **e-governance infrastructure and SDLC operations**, maintaining **99.99% uptime** and minimizing service downtime.
 
 <!-- ================= 💼 Open To Opportunities ================= -->
 
-- Open to opportunities in ***DevOps Engineering***, ***Cloud Engineering***, ***consultant**, and ***Cloud Support roles***.
+- 💼 Open to opportunities in **DevOps Engineering**, **Cloud Engineering**, **Cloud Consulting**, and **Cloud Support** roles.
 
 ---
 
@@ -66,6 +69,7 @@
 <p>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Helm-0F1689?style=flat&logo=helm&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white"/>
   <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat&logo=argo&logoColor=white"/>
@@ -77,6 +81,13 @@
   <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white"/>
   <img src="https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white"/>
   <img src="https://img.shields.io/badge/CloudWatch-FF9900?style=flat&logo=amazonaws&logoColor=white"/>
+</p>
+
+### 🔐 Security & DevSecOps
+
+<p>
+  <img src="https://img.shields.io/badge/Trivy-1904DA?style=flat&logo=aqua&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DevSecOps-2E8B57?style=flat&logo=security&logoColor=white"/>
 </p>
 
 ### 🐧 Operating Systems & Version Control
@@ -124,41 +135,54 @@
 
 ---
 
-<!-- ================= 📅 JOURNEY ================= -->
+<!-- ================= 🎯 What I'm Focused On ================= -->
 
-## 📅 My Learning Journey
+## 🎯 What I'm Focused On
 
-✨ Instead of big projects, I focus on **real practice**
-- Python (Automation & Scripting)
-- Linux command labs
-- Git, Github, Github-action 
-- Networking troubleshooting  
-- Docker experiments  
-- Shell scripting  
-- AWS fundamentals  
-
+- ☁️ Designing scalable and secure **Cloud Infrastructure**
+- ⚙️ Building automated **CI/CD & DevSecOps pipelines**
+- ☸️ Implementing **Kubernetes & GitOps** workflows
+- 🏗️ Managing Infrastructure as Code with **Terraform**
+- 📊 Improving **Observability, Reliability & Performance**
+- 🤖 Exploring **AI/LLMs for DevOps automation**
+ 
 ---
 
-## 📌 Featured Projects
+<!-- ================= 📚 Learning & Practice ================= -->
+
+## 📚 Learning & Practice
 
 ### 🚀 90 Days of DevOps
 
 > My hands-on Cloud & DevOps learning journey.
 
-- 📅 **[90DaysDevOpsJourney](https://github.com/Amit5197/90DaysOfDevOps/tree/master/2026)**
+- 📅 **90 Days of DevOps:** [View Repository](https://github.com/Amit5197/90DaysOfDevOps/tree/master/2026)
 
 ---
 
-<!-- ================= 🏆 Certifications ================= -->
+<!-- ================= 🏆 Certifications & Professional Training ================= -->
 
-## 🏆 Certifications
+## 🏆 Certifications & Professional Training
 
-- AWS Certified Cloud Practitioner (CLF-C02)
-- Microsoft Azure Fundamentals (AZ-900)
-- Microsoft Azure Administrator (AZ-104)
-- Oracle Cloud Infrastructure (OCI) 2025 Certified DevOpsProfessional
-- Oracle Cloud Infrastructure (OCI) 2025 Multicloud Architect Professional
-- AWS Zero to Hero | Agentic AI for DevOps | Azure DevOps Zero to Hero-TrainWithShubham
+### ☁️ AWS
+
+- 🟠 **AWS Certified Cloud Practitioner — CLF-C02**
+
+### 🔷 Microsoft Azure
+
+- 🔵 **Microsoft Azure Fundamentals — AZ-900**
+- 🔵 **Microsoft Azure Administrator — AZ-104**
+- 🔵 **Microsoft Azure Solutions Architect — AZ-305**
+
+### 🔴 Oracle Cloud Infrastructure
+
+- 🔴 **OCI 2025 Certified DevOps Professional**
+- 🔴 **OCI 2025 Multicloud Architect Professional**
+
+### 🤖 DevOps & AI Training
+
+- 🚀 **AWS Zero to Hero | Agentic AI for DevOps | Azure DevOps**
+- 📚 **Zero to Hero — TrainWithShubham**
 
 ---
 
