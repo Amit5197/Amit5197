@@ -11,7 +11,7 @@
 </p>
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=blue&style=flat-square" height="28" />
+<img src="https://komarev.com/ghpvc/?username=amit5197&label=Profile%20Views&color=blue&style=flat-square" height="28" />
 <img src="https://img.shields.io/badge/AWS-Certified%20Cloud%20Practitioner-orange?style=flat-square" height="28" />
 <img src="https://img.shields.io/badge/AZURE-AZ--900%20%7C%20AZ--104%20%7C%20AZ--305-blue?style=flat-square" height="28" />
 <img src="https://img.shields.io/badge/OCI-DevOps%20%26%20Multicloud-red?style=flat-square" height="28" />
