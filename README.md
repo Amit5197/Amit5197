@@ -7,7 +7,7 @@
 </h3>
 
 <p align="center">
-💙 Building scalable cloud infrastructure through Automation, DevSecOps, and GitOps practices
+💙 Engineering scalable and secure cloud infrastructure with Automation, DevSecOps, and GitOps — built for reliability, efficiency, and continuous delivery.
 </p>
 
 <p align="center">
