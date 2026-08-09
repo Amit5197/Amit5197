@@ -1,128 +1,70 @@
-<!-- ========================================================= -->
-<!--                       HERO SECTION                         -->
-<!-- ========================================================= -->
+<!-- ================= HEADER ================= -->
+
+<h1 align="center">Hi, I'm Amit K Pandey 👋</h1>
+
+<h3 align="center">
+🚀 Cloud & DevOps Engineer | Cloud • Kubernetes • Automation • DevSecOps
+</h3>
+
+<p align="center">
+💙 Engineering scalable and secure cloud infrastructure with Automation, DevSecOps, and GitOps — built for reliability, efficiency, and continuous delivery.
+</p>
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=amit5197&label=Profile%20Views&color=blue&style=flat-square" height="28" />
+<img src="https://img.shields.io/badge/AWS-Certified%20Cloud%20Practitioner-orange?style=flat-square" height="28" />
+<img src="https://img.shields.io/badge/AZURE-AZ--900%20%7C%20AZ--104%20%7C%20AZ--305-blue?style=flat-square" height="28" />
+<img src="https://img.shields.io/badge/OCI-DevOps%20%26%20Multicloud-red?style=flat-square" height="28" />
+</div>
+
+---
 
 <div align="center">
 
 # 👋 Hi, I'm **Amit K Pandey**
 
-### ☁️ Cloud & DevOps Engineer · ☸️ Kubernetes · 🤖 AI for DevOps · 🔐 DevSecOps
+### ☁️ Cloud & DevOps Engineer | ☸️ Kubernetes | 🤖 AI for DevOps | 🔐 DevSecOps
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=850&lines=Cloud+Infrastructure+%7C+DevOps+%7C+Kubernetes;Infrastructure+as+Code+%7C+Terraform+%7C+AWS+%7C+Azure;CI%2FCD+%7C+GitOps+%7C+DevSecOps;Observability+%7C+Reliability+%7C+Automation;Exploring+AI+%26+LLMs+for+DevOps+Automation" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=850&lines=Cloud+Infrastructure+%7C+DevOps+%7C+Kubernetes;Terraform+%7C+AWS+%7C+Azure+%7C+OCI;CI%2FCD+%7C+GitOps+%7C+DevSecOps;Observability+%7C+Reliability+%7C+Automation;AI+%26+LLMs+for+DevOps+Automation" alt="Typing SVG" />
 
-<br/>
+<br>
 
-<img src="https://komarev.com/ghpvc/?username=amit5197&label=PROFILE+VIEWS&color=00D9FF&style=for-the-badge" />
-<img src="https://img.shields.io/badge/AWS-Certified-orange?style=for-the-badge&logo=amazonaws&logoColor=white" />
-<img src="https://img.shields.io/badge/Azure-AZ--900%20%7C%20AZ--104%20%7C%20AZ--305-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-<img src="https://img.shields.io/badge/OCI-DevOps%20%26%20Multicloud-red?style=for-the-badge&logo=oracle&logoColor=white" />
+<img src="https://komarev.com/ghpvc/?username=amit5197&label=PROFILE+VIEWS&color=00D9FF&style=for-the-badge" alt="Profile Views">
 
-<br/><br/>
+<img src="https://img.shields.io/badge/AWS-Certified-orange?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS">
 
-> 🚀 **Building scalable infrastructure, automating everything possible,  
-> securing the delivery pipeline, and exploring how AI can make DevOps smarter.**
+<img src="https://img.shields.io/badge/Azure-AZ--900%20%7C%20AZ--104%20%7C%20AZ--305-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure">
+
+<img src="https://img.shields.io/badge/OCI-DevOps%20%26%20Multicloud-red?style=for-the-badge&logo=oracle&logoColor=white" alt="OCI">
+
+<br><br>
+
+> 🚀 **Building scalable cloud infrastructure, automating delivery, securing workloads, and exploring AI-powered DevOps.**
 
 </div>
 
 ---
-
-<!-- ========================================================= -->
-<!--                         WHO AM I                           -->
-<!-- ========================================================= -->
-
-# 🧠 `$ whoami`
-
-```yaml
-name: Amit K Pandey
-role: Cloud & DevOps Engineer
-experience: 4+ years
-
-specialization:
-
----
-
 <!-- ================= 🚀 About Me ================= -->
 
+## 🚀 About Me
+
+- ☁️ Cloud & DevOps Engineer with **4+ years of experience** designing, deploying, and managing scalable infrastructure across AWS and Azure.
+- ⚙️ Hands-on experience in **CI/CD, Infrastructure as Code, Kubernetes, Docker, cloud networking, security, monitoring, and production operations**.
+- 🔧 Experienced with **Terraform, GitHub Actions, Jenkins, Docker, Kubernetes, Prometheus, Grafana, CloudWatch, and ELK**.
+- 📈 Proven track record of reducing deployment and provisioning time, automating manual processes, improving system reliability, and supporting production environments.
+- 🛡️ Experienced in supporting **e-governance infrastructure and SDLC operations**, maintaining **99.99% uptime** and minimizing service downtime.
+
+<!-- ================= 💼 Open To Opportunities ================= -->
+
+- 💼 Open to opportunities in **DevOps Engineering**, **Cloud Engineering**, **Cloud Consulting**, and **Cloud Support** roles.
 
 ---
 
-# ⚡ About Me
+<!-- ================= HEADER ================= -->
 
-I'm a **Cloud & DevOps Engineer** focused on building reliable, secure, scalable, and automated infrastructure across modern cloud environments.
-
-I enjoy working at the intersection of:
-
-<div align="center">
-
-**☁️ Cloud + ⚙️ Automation + ☸️ Kubernetes + 🔐 Security + 📊 Observability + 🤖 AI**
-
-</div>
-
-### What I bring
-
-- ☁️ **4+ years** of hands-on Cloud & DevOps experience.
-- ⚙️ Experience designing and managing **production-ready infrastructure**.
-- 🏗️ Infrastructure automation using **Terraform / IaC**.
-- 🚀 CI/CD automation using **GitHub Actions and Jenkins**.
-- ☸️ Container orchestration using **Docker, Kubernetes and Helm**.
-- 🔄 GitOps workflows using **Argo CD**.
-- 🔐 Security integration with **DevSecOps and Trivy**.
-- 📊 Monitoring and observability using **Prometheus, Grafana and CloudWatch**.
-- 🛡️ Experience supporting **e-governance infrastructure and SDLC operations**.
-- 🎯 Focus on **reliability, scalability, performance and cost optimization**.
-- 🤖 Exploring **AI/LLMs for intelligent DevOps automation**.
-
----
-
-# 🏗️ My DevOps Philosophy
-
-```text
-                 ┌─────────────────────┐
-                 │      Developer      │
-                 └──────────┬──────────┘
-                            │
-                            ▼
-                 ┌─────────────────────┐
-                 │       Git Push      │
-                 └──────────┬──────────┘
-                            │
-                            ▼
-              ┌──────────────────────────┐
-              │       CI Pipeline        │
-              │ Build → Test → Scan      │
-              └────────────┬─────────────┘
-                           │
-                           ▼
-              ┌──────────────────────────┐
-              │      Containerize        │
-              │      Docker / Buildx     │
-              └────────────┬─────────────┘
-                           │
-                           ▼
-              ┌──────────────────────────┐
-              │      Security Gate       │
-              │         Trivy            │
-              └────────────┬─────────────┘
-                           │
-                           ▼
-              ┌──────────────────────────┐
-              │       GitOps CD           │
-              │         Argo CD           │
-              └────────────┬─────────────┘
-                           │
-                           ▼
-                 ┌─────────────────────┐
-                 │      Kubernetes     │
-                 │   Dev → Stage → Prod│
-                 └──────────┬──────────┘
-                            │
-                            ▼
-              ┌──────────────────────────┐
-              │   Observe & Optimize     │
-              │ Prometheus + Grafana     │
-              └──────────────────────────┘
-
-### Code → Build → Secure → Deploy → Observe → Improve → Repeat
+<p align="center">
+  🚀 Believe in <strong>consistency over perfection</strong> — automate, improve, and ship better every day.
+</p>
 
 ---
 
