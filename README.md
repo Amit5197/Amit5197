@@ -45,9 +45,9 @@ Cloud Support Engineer	Ishan Netsol Private Limited | Noida, Uttar Pradesh 	Dec 
 System Engineer	Vastek Systems Private Limited | Rewa, Madhya Pradesh	Jun 2023 - Nov 2023
 <img width="760" height="208" alt="image" src="https://github.com/user-attachments/assets/7447fc6c-7b76-47ef-bb86-e05d78e85ed3" />
 
-<!-- ================= SKILLS ================= -->
+---
 
-## 🛠️ Skills & Tools
+<!-- ================= SKILLS ================= -->
 
 ## 🛠️ Skills & Tools
 
@@ -94,6 +94,30 @@ System Engineer	Vastek Systems Private Limited | Rewa, Madhya Pradesh	Jun 2023 -
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/>
 </p>
+
+---
+
+## 🚀 Featured Projects
+
+### ☸️ SkillPulse — Three-Tier Kubernetes Deployment
+
+**Technologies:** Docker · Kubernetes · GitHub Actions · Helm · Argo CD · Prometheus · Grafana · Trivy · NGINX Ingress
+
+- 🚀 Containerized a three-tier **SkillPulse application** with Frontend, Go Backend, and MySQL services, optimizing Docker images to **30.4 MB (Backend)** and **70.4 MB (Frontend)**.
+- ⚙️ Built **GitHub Actions CI/CD pipelines** with Docker Buildx caching, Trivy image scanning, and automated redeployment, achieving **CI validation in 2m 8s** and **CD redeployment in 18s**.
+- 📦 Deployed **Helm chart v0.1.0** across Development, Staging, and Production namespaces with environment-specific configurations and **3 Argo CD applications** maintained in `Healthy/Synced` state.
+- 🔄 Implemented **Argo CD self-healing and rollback**, Prometheus/Grafana monitoring and alerts, centralized logging, AIOps analysis, MySQL backup/restore, **10% canary deployments**, and **HPA scaling up to 5 replicas**.
+
+---
+
+### 🤖 AI-BankApp — End-to-End DevOps Platform
+
+**Technologies:** AWS · Terraform · Docker · Kubernetes · Helm · GitHub Actions · K9s · Monitoring · GitOps · LLMs
+
+- 🏦 Built an **AI-powered three-tier banking application** using Spring Boot with Docker, Kubernetes, Helm, CI/CD, Terraform, Monitoring, GitOps, and LLM integration.
+- ☁️ Designed and provisioned **scalable AWS infrastructure using Terraform (IaC)** and implemented GitHub Actions pipelines to automate build, test, and deployment workflows.
+- ⚡ Reduced deployment time by **50–60%** through CI/CD automation and improved application availability using **Kubernetes Horizontal Pod Autoscaling (HPA)**.
+- 🏗️ Automated infrastructure provisioning, reducing environment setup from **1–2 hours to 30–40 minutes** while achieving approximately **20% infrastructure cost optimization**.
 
 ---
 
